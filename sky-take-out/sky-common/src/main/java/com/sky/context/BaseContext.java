@@ -1,5 +1,6 @@
 package com.sky.context;
 
+// todo 这是干什么的
 public class BaseContext {
 
     public static ThreadLocal<Long> threadLocal = new ThreadLocal<>();
